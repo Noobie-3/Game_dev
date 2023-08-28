@@ -1,0 +1,33 @@
+newmtl Crown_Molding
+Kd 0.501961 0 0.654902
+Ke 0 0 0
+Ka 0 0 0
+Ks 0.5 0.5 0.5
+Ns 400
+Tr 0
+d 1
+Ni 1.5
+Tf 1 1 1
+
+newmtl Floor_Molding
+Kd 0.501961 0 0.654902
+Ke 0 0 0
+Ka 0 0 0
+Ks 0.5 0.5 0.5
+Ns 400
+Tr 0
+d 1
+Ni 1.5
+Tf 1 1 1
+
+newmtl Main_Wall_Uv
+Kd 0.501961 1 0.533333
+Ke 0 0 0
+Ka 0 0 0
+Ks 0.5 0.5 0.5
+Ns 400
+Tr 0
+d 1
+Ni 1.5
+Tf 1 1 1
+
